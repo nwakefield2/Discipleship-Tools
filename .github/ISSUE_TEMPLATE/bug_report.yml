@@ -41,7 +41,7 @@ body:
       description: What should have happened?
       
   - type: textarea
-    id: expected
+    id: actual
     attributes:
       label: Actual behavior
       description: What should actually happened?
