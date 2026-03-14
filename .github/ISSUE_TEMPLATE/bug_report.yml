@@ -39,7 +39,13 @@ body:
     attributes:
       label: Expected behavior
       description: What should have happened?
-
+      
+  - type: textarea
+    id: expected
+    attributes:
+      label: Actual behavior
+      description: What should actually happened?
+      
   - type: textarea
     id: screenshots
     attributes:
